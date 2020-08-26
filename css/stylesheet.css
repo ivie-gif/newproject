@@ -1,0 +1,16 @@
+.bodyimage{
+    background-image: url(/image/istockphoto-1185860571-170667a.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+position: relative;
+height: 100%;
+padding-bottom: 35px;
+}
+.bodyimage h3{
+    margin-left: 55px;
+    padding-top: 25px;
+}
+.bodyimage p{
+    margin-left: 55px;
+}
