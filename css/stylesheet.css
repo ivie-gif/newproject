@@ -1,10 +1,10 @@
 .bodyimage{
-    background-image: url(/image/istockphoto-1185860571-170667a.jpg);
+background-image: url(/image/microsoft\ image.PNG);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
 position: relative;
-height: 100%;
+width: 100%;
 padding-bottom: 35px;
 }
 .bodyimage h3{
@@ -13,4 +13,10 @@ padding-bottom: 35px;
 }
 .bodyimage p{
     margin-left: 55px;
+}
+.secondfooter{
+    font-size: 0.7em;
+}
+.firstfooter{
+    font-size: 0.9em;
 }
